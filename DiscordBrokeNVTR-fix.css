@@ -1275,6 +1275,14 @@ code.hljs {
     100% {transform: rotate(5deg);}
 }
 /*bubble chat*/
+.header-2jRmjb {
+  border-radius: 2px;
+  max-width: 650px;
+  margin: 0;
+  padding: 1px 1px ;
+  background-color: rgba(90, 21, 21, 0.527);
+  backdrop-filter: blur(3px);
+}
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty) {
     position: relative;
     overflow: visible;
