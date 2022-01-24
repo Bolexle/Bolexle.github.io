@@ -356,7 +356,8 @@ div[class*="noChannel-"],
   background-color: rgb(193, 3, 21) !important;
   background-size: contain !important;
   background-blend-mode: normal !important;
-  background-position: 0 20px !important;
+  background-position: 0 0px !important;
+  background-repeat: repeat-x;
 }
 
 #app-mount .container-2o3qEW { background: transparent;}
