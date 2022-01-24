@@ -99,7 +99,7 @@ vc ring colour by david
   background-color: rgb(193, 3, 21) !important;
   background-image: var(--background-image) !important;
   background-size: contain !important;
-  background-blend-mode: multiply !important;
+  background-blend-mode: normal !important;
   background-position: 0 0px !important;
 }
 .typeWindows-2-g3UY {
