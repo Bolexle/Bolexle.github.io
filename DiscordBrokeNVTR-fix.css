@@ -119,7 +119,7 @@ vc ring colour by david
   display:flex;
   align-items:left;
   height:calc(100% + 4px);
-  top:-1px;
+  top: 2px;
   left: 5px;
   width:fit-content;
   font-size:15px;
@@ -128,7 +128,7 @@ vc ring colour by david
 .wordmark-2u86JB > svg {display:none}
 .wordmark-2u86JB:after {content:'STRAWBERRY SHARK'; text-shadow: 0 0 20px rgb(255, 0, 0); color: rgb(255, 94, 94); font-family: "Discord"}
 .titleBar-1it3bQ {
-    padding: 4px!important;
+    padding: 3px!important;
 }
 /*channel small edits*/
 .modeUnread-3Cxepe .icon-2W8DHg { 
