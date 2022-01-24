@@ -485,7 +485,7 @@ div[class*="noChannel-"],
 .perksModalContentWrapper-2HU6uL {
     background-color: rgba(0, 0, 0, 0.932);
 }
-.wrapper-2vIMkT, .container-1NXEtd, #private-channels, .privateChannels-oVe7HL, .sidebar-1tnWFu, .scroller-3X7KbA, .wrapper-1_HaEi, .sidebarRegionScroller-FXiQOh, .standardSidebarView-E9Pc3j, .layer-86YKbF #app-mount {
+.container-1NXEtd, #private-channels, .privateChannels-oVe7HL, .sidebar-1tnWFu, .scroller-3X7KbA, .wrapper-1_HaEi, .sidebarRegionScroller-FXiQOh, .standardSidebarView-E9Pc3j, .layer-86YKbF #app-mount {
   background: transparent !important;}
 .scroller-3_YDR2 {
     background-color: transparent;
@@ -1283,6 +1283,7 @@ code.hljs {
 .username-h_Y3Us {
   font-weight: 900;
 }
+.wrapper-2vIMkT,
 .timestamp-p1Df1m, 
 .headerText-2z4IhQ {
   border-radius: 3px;
