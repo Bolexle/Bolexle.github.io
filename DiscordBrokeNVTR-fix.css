@@ -96,11 +96,11 @@ vc ring colour by david
 /*theme background image*/
 .titleBar-1it3bQ,
 .layers-OrUESM .layer-86YKbF {
-  background-color: rgb(255, 255, 255) !important;
+  background-color: rgb(193, 3, 21) !important;
   background-image: var(--background-image) !important;
   background-size: contain !important;
   background-blend-mode: multiply !important;
-  background-position: 0 -50px !important;
+  background-position: 0 0px !important;
 }
 .typeWindows-2-g3UY {
   margin-top: 0 !important;
