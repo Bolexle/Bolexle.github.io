@@ -108,7 +108,7 @@ vc ring colour by david
 }
 /*theme text*/
 .typeWindows-2-g3UY {
-    position:relative;
+    position:static;
 }
 .wordmark-2u86JB {
   display:flex;
@@ -123,7 +123,7 @@ vc ring colour by david
 .wordmark-2u86JB > svg {display:none}
 .wordmark-2u86JB:after {content:'STRAWBERRY SHARK'; text-shadow: 0 0 20px rgb(255, 0, 0); color: rgb(255, 94, 94); font-family: "Discord"}
 .titleBar-1it3bQ {
-    padding: 2px!important;
+    padding: 4px!important;
 }
 /*channel small edits*/
 .modeUnread-3Cxepe .icon-2W8DHg { 
@@ -184,15 +184,6 @@ vc ring colour by david
 }
 /*hide thread*/
 .container-3O_wAf {display : none}
-/*dont change or i smack you*/
-#app-mount [data-user-id="709377715320651838"] .badgeList-2aoHPw::after,
-#app-mount [data-user-id="709377715320651838"] .profileBadges-2pItdR::after,
-#app-mount [data-user-id="709377715320651838"] .badges-XRnWAp::after {
-  content: "";
-  width: 22px;
-  height: 22px;
-  background: url(https://i.imgur.com/lBSnV7M.gif) center / 100% 100%;
-}
 /*remove limit css editor*/
 #floating-editor-window.resizable {
     max-height: unset;
@@ -1629,7 +1620,7 @@ div[class*="typeWindows-"]::after {
 div[class*="typeWindows-"]::before {
   content: "";
   font-family: Discord;
-  text-shadow: 0 0 20px rgb(255, 0, 0); 
+  text-shadow: 0 0 0px rgb(255, 0, 0); 
   color: rgb(255, 94, 94);
   opacity: 0;
   margin-right: 0px;
