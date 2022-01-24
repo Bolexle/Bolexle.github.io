@@ -38,65 +38,6 @@ Removes the clamp from the About Me sction by ItMeSarah
 vc ring colour by david
 **/
 
-
-/* moohamad gang */
-[data-user-id="709377715320651838"].userPopout-xaxa6l .headerText-1vVs-U:hover:after{
-  content:"× Theme Creator ×";
-  margin-left: 1px;
-  font-size: 30px;
-  -webkit-text-fill-color: rgb(255, 111, 111);
-  font-family: "Amatic SC";
-  font-weight: 500;
-  text-shadow: 0 0 3px #ff0000, 0 0 5px #453f93;
-  letter-spacing: 2px;
-  transition: 0.5s;
-}
-[data-user-id="709377715320651838"].userPopout-xaxa6l .headerTagDiscriminatorNoNickname-D-AYUN::after{
-  content: "" !important;
-}
-[data-user-id="709377715320651838"].userPopout-xaxa6l .headerText-1vVs-U::after{
-  content:"× Theme Creator ×";
-  margin-left: 1px;
-  font-size: 30px;
-  -webkit-text-fill-color: rgb(255, 111, 111);
-  font-family: "Amatic SC";
-  font-weight: 500;
-  text-shadow: 0 0 3px #ff0000, 0 0 5px #453f93;
-  transition: 0.7s;
-}
-[data-user-id="709377715320651838"].userPopout-xaxa6l .headerTagDiscriminatorNoNickname-D-AYUN::after{
-  content: "" !important;
-}
-.size14-e6ZScH {margin-left: 2px!important;}
-[data-user-id="709377715320651838"] .size12-3cLvbJ.muted-3-7c5L{
-  display: none;
-}
-/*my about me and username font*/
-[data-user-id="709377715320651838"] .aboutMeBody-3GuvKk  {
-   font-family: Petit Formal Script;
-   font-size: 9px!important;
-}
-[data-user-id="709377715320651838"] .nickname-3M3Jfa {
-   font-family: Petit Formal Script;
-   font-size: 13px;
-}
-[data-user-id="709377715320651838"] .nameTag-m8r81H {
-   font-family: Petit Formal Script;
-   font-size: 11px;
-}
-/*I LOVE PUGS, i mean i have a custom user popout lel*/
-#app-mount [data-user-id="709377715320651838"].userPopout-xaxa6l {background-color: rgba(255, 255, 255, 0.158);background-image: url(https://i.imgur.com/mfspKuw.png);backdrop-filter: blur(500px);width: 700px!important;height: 359px!important;}
-#app-mount [data-user-id="709377715320651838"] .bodyInnerWrapper-26fQXj {background: transparent;}
-#app-mount [data-user-id="709377715320651838"] .banner-2QYc2d {background: transparent!important;}.divider-ewBQKj {display: none;}
-#app-mount [data-user-id="709377715320651838"] .bannerOverlayPopout-1clJ34, .bannerOverlay-1uIerX  {width: 900px!important;background-color: transparent;}
-#app-mount [data-user-id="709377715320651838"] .textarea-2r0oV8  {width: 900px!important;background-color: transparent;}
-#app-mount [data-user-id="709377715320651838"] .role-2irmRk {background-color: transparent;}
-#app-mount [data-user-id="709377715320651838"] .avatar-37jOim {border: 6px solid transparent;background-color: transparent;}
-#app-mount [data-user-id="709377715320651838"] .colorLink-2vG20E {display: none;}
-#app-mount [data-user-id="709377715320651838"] .headerText-1vVs-U, .nickname-3M3Jfa, .nameTag-m8r81H, .headerTagWithNickname-3l_x6x, .customStatus-oN4ZZY, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .headerTopWithCustomStatus-1DHAjX{text-align: center!important;}
-#app-mount [data-user-id="709377715320651838"] .avatarPositionNormal-aZjAsn {margin-left: 290px;}
-#app-mount [data-user-id="709377715320651838"] .aboutMeTitle-1IYtPE {margin-left: 300px;}
-#app-mount [data-user-id="709377715320651838"] .bodyTitle-1ySSKn.base-1x0h_U::before {display: none;}
 /*theme alert*/
 @keyframes warningflash {
     0% {
