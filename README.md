@@ -1,3 +1,5 @@
+I am just forking for some personal customization, please refer to the original github for the full theme.
+
 ## NOVATURIENT PREVIEW
 ![NVTR3](https://user-images.githubusercontent.com/84565593/144735234-6a8cb861-2b75-4625-8d7a-d96f67a8f501.png)
 
