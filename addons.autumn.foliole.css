@@ -461,7 +461,7 @@ div[class*="noChannel-"],
 /* YouTube */
 [href*="youtu.be"],
 [href*="youtube.com"] {
-    color:#c4302b !important;
+    color:#00ffb3 !important;
 }
 /* Twitch */
 [href*="twitch.tv"] {
