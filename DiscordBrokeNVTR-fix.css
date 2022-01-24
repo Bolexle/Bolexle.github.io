@@ -121,9 +121,9 @@ vc ring colour by david
   font-family: 'Discord';
 }
 .wordmark-2u86JB > svg {display:none}
-.wordmark-2u86JB:after {content:'DISCORD + ŋVTR = EPIKK'; text-shadow: 0 0 20px rgb(255, 0, 0); color: rgb(255, 94, 94); font-family: "Discord"}
+.wordmark-2u86JB:after {content:'STRAWBERRY SHARK'; text-shadow: 0 0 20px rgb(255, 0, 0); color: rgb(255, 94, 94); font-family: "Discord"}
 .titleBar-1it3bQ {
-    padding: 8px!important;
+    padding: 2px!important;
 }
 /*channel small edits*/
 .modeUnread-3Cxepe .icon-2W8DHg { 
@@ -1646,7 +1646,7 @@ div[class*="typeWindows-"]:hover::before {
   margin-right: 2px;
 }
 div[class*="typeWindows-"]::after {
-  margin-right: 54px;
+  margin-right: 92px;
   transform: none;
 }
 /*chat text size and font*/
