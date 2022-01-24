@@ -1016,7 +1016,7 @@ div[class*="noChannel-"],
 }
 .botTagRegular-kpctgU:hover {
     transition: .5s;
-    background: rgb(255, 166, 0);
+    background: rgb(49, 100, 28);
     color: #ffffff;
 }
 .botTagRegular-kpctgU {
@@ -1188,7 +1188,7 @@ code.hljs {
 }
 /*custom css editor colours*/
 .floating-window-titlebar {
-  background-color: rgb(255, 166, 0);
+  background-color: rgb(49, 100, 28);
 }
 #bd-editor-controls {
   background-color: rgb(255, 78, 78)!important;
@@ -1229,11 +1229,11 @@ code.hljs {
 }
 /*new unreads colour*/
 .unreadBar-elBRZx {
-    background-color: rgb(255, 166, 0);
+    background-color: rgb(49, 100, 28);
     opacity: 1;
 }
 .unreadBar-elBRZx:hover {
-    background-color: rgb(255, 166, 0);
+    background-color: rgb(49, 100, 28);
     opacity: .9;
 }
 /*sry bro its all for the home button*/
@@ -1242,7 +1242,7 @@ code.hljs {
 }
 /*audio and ping border radius*/
  .baseShapeRound-3epLEv {
-    background-color: rgb(255, 166, 0)!important;
+    background-color: rgb(49, 100, 28)!important;
     border-radius: 5px;
 }
 .numberBadge-37OJ3S {
@@ -1254,7 +1254,7 @@ code.hljs {
   display: none;
 }
 /*attach button play spotify logo colour*/
-.attachButtonPlay-1ATmb5 {color: rgb(255, 166, 0);}
+.attachButtonPlay-1ATmb5 {color: rgb(49, 100, 28);}
 /*user volume bar*/
 :root .slider-1NC-Gf .grabber-2GQyvM {
    display: none;
