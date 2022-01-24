@@ -98,7 +98,7 @@ vc ring colour by david
 .layers-OrUESM .layer-86YKbF {
   background-color: rgb(255, 255, 255) !important;
   background-image: var(--background-image) !important;
-  background-size: cover !important;
+  background-size: contain !important;
   background-blend-mode: multiply !important;
   background-position: 0 -50px !important;
 }
@@ -112,10 +112,10 @@ vc ring colour by david
 }
 .wordmark-2u86JB {
   display:flex;
-  align-items:center;
+  align-items:left;
   height:calc(100% + 4px);
   top:-5px;
-  left: 650px;
+  left: 5px;
   width:fit-content;
   font-size:15px;
   font-family: 'Discord';
