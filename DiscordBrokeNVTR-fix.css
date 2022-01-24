@@ -336,7 +336,6 @@ div[class*="noChannel-"],
 .expandedFolderBackground-2sPsd-,
 .panels-3wFtMD,
 .messages-3amgkR,
-.sidebar-1tnWFu,
 .scroller-2TZvBN,
 .scroller-WSmht3,
 .friendsTableBody-1ZhKif,
@@ -349,6 +348,12 @@ div[class*="noChannel-"],
 .nowPlayingColumn-1eCBCN,
 .peopleList-2VBrVI {
   background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.sidebar-1tnWFu{
+  background-color: rgba(0, 0, 0, 0) !important;
+  width: 18%;
+  max-width: 240px;
 }
 
 .chat-2ZfjoI {
