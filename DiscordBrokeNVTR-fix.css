@@ -138,7 +138,7 @@ vc ring colour by david
 }
 /*blurple recolour root*/
 :root {
-	--accentcolor:			49, 100, 28;		/*	blurple		-	default:	88,101,242		*/
+	--accentcolor:			76, 255, 5;		/*	blurple		-	default:	88,101,242		*/
 	--accentcolor2:			255, 94, 94;	/*	boostpink	-	default:	255,115,250		*/
 }
 
