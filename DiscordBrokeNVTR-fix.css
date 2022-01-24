@@ -94,7 +94,13 @@ vc ring colour by david
   border: 2px solid #F04747!important; 
 }
 /*theme background image*/
-.titleBar-1it3bQ,
+.titleBar-1it3bQ {
+  background-color: rgb(193, 3, 21) !important;
+  background-image: var(--background-image) !important;
+  background-size: cover !important;
+  background-blend-mode: normal !important;
+  background-position: 0 0px !important;
+}
 .layers-OrUESM .layer-86YKbF {
   background-color: rgb(193, 3, 21) !important;
   background-image: var(--background-image) !important;
@@ -114,7 +120,7 @@ vc ring colour by david
   display:flex;
   align-items:left;
   height:calc(100% + 4px);
-  top:-5px;
+  top:-1px;
   left: 5px;
   width:fit-content;
   font-size:15px;
