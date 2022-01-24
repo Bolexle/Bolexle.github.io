@@ -1610,7 +1610,7 @@ div[class*="typeWindows-"]::after, div[class*="typeWindows-"]::before {
   transition: all 0.5s ease-in-out;
 }
 div[class*="typeWindows-"]::after {
-  content: "Bolexle";
+  content: "See you later space cowboy...";
   text-shadow: 0 0 20px rgb(255, 0, 0); 
   color: rgb(255, 94, 94);
   font-family: Discord;
