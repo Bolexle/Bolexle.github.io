@@ -1059,7 +1059,7 @@ code.hljs {
 .button-Jt-tIg {border: dashed 1px #fff3;height: 40px;background: rgba(255, 255, 255, 0.123)!important;}
 /*spotify gradient thing*/
 .timeline-UWmgAx:hover .barFill-Dhkah7 {
-    background: linear-gradient(135deg, #ffce61, #fc5050);
+    background: linear-gradient(135deg, #1f7e1f, #fc5050);
 }
 /*no text in share screen and video button*/
 .actionButtons-2vEOUh .contents-3ca1mk {
@@ -1083,10 +1083,10 @@ code.hljs {
 /*reply bar and mark as read button colour*/
 .replyLabel-WWnhHi {padding-left: 10px;}
 .clipContainer-31nYlH {
-    background-color: rgb(255, 167, 52);
+    background-color: rgb(49, 100, 28);
 }
 .replyBar-1oi75v {
-  background-color: rgb(255, 167, 52);
+  background-color: rgb(49, 100, 28);
   height: 30px;
   margin-bottom: 1px!important;
   border-radius: 4px;
@@ -1095,7 +1095,7 @@ code.hljs {
   color: #fff;
 }
 .barButtonMain-2GIx4o, .barButtonAlt-TQoCdZ {
-  background-color: rgb(255, 167, 52);
+  background-color: rgb(49, 100, 28);
   height: 50px;
   bottom: -10px;
 }

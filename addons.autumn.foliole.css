@@ -1087,10 +1087,10 @@ code.hljs {
 /*reply bar and mark as read button colour*/
 .replyLabel-27F26o {padding-left: 10px;}
 .clipContainer-eeROt0 {
-    background-color: rgb(255, 167, 52);
+    background-color: rgb(49, 100, 28);
 }
 .replyBar-1YLQ2F {
-  background-color: rgb(255, 167, 52);
+  background-color: rgb(49, 100, 28);
   height: 30px;
   margin-bottom: 1px!important;
   border-radius: 4px;
@@ -1099,7 +1099,7 @@ code.hljs {
   color: #fff;
 }
 .barButtonMain-3K-jeJ, .barButtonAlt-mYL1lj {
-  background-color: rgb(255, 167, 52);
+  background-color: rgb(49, 100, 28);
   height: 50px;
   bottom: -10px;
 }
