@@ -102,7 +102,6 @@ vc ring colour by david
 }
 .layers-OrUESM .layer-86YKbF {
   background-color: rgb(193, 3, 21) !important;
-  background-image: var(--background-image) !important;
   background-size: contain !important;
   background-blend-mode: normal !important;
   background-position: 0 20px !important;
@@ -350,6 +349,11 @@ div[class*="noChannel-"],
 .peopleList-2VBrVI {
   background-color: rgba(0, 0, 0, 0) !important;
 }
+
+.chat-2ZfjoI {
+  background-image: var(--background-image) !important;
+}
+
 #app-mount .container-2o3qEW { background: transparent;}
 .embedFull-1HGV2S {
   background-color: rgba(46, 48, 54, 0) !important;
