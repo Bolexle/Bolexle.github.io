@@ -96,7 +96,6 @@ vc ring colour by david
 /*theme background image*/
 .titleBar-1it3bQ {
   background-color: rgb(193, 3, 21) !important;
-  background-image: var(--background-image) !important;
   background-size: cover !important;
   background-blend-mode: normal !important;
   background-position: 0 0px !important;
@@ -106,7 +105,7 @@ vc ring colour by david
   background-image: var(--background-image) !important;
   background-size: contain !important;
   background-blend-mode: normal !important;
-  background-position: 0 0px !important;
+  background-position: 0 20px !important;
 }
 .typeWindows-2-g3UY {
   margin-top: 0 !important;
