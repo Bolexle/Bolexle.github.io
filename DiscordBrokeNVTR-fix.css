@@ -1159,8 +1159,7 @@ code.hljs {
 }
 /*blur menus*/
 .menu-1QACrS, .scroller-1bVxF5 { /*Right click panel*/
-    background-color: rgba(255, 255, 255, 0.103)!important;
-    backdrop-filter: blur(15px);
+    background-color: rgb(10, 46, 10)!important;
     border-radius: 5px;
 }
 /*custom css editor colours*/
