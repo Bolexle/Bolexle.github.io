@@ -320,7 +320,6 @@ background-color: #fff !important;
 .chat-2ZfjoI > .title-wrap,
 .chat-2ZfjoI > .content-1jQy2l,
 .channel-members,
-.members-3WRCEx,
 .messagesWrapper-3lZDfY,
 .activityFeed-28jde9,
 .card-3Zmutq,
@@ -348,6 +347,10 @@ div[class*="noChannel-"],
 .nowPlayingColumn-1eCBCN,
 .peopleList-2VBrVI {
   background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.members-3WRCEx {
+  backdrop-filter: blur(15px);
 }
 
 .sidebar-1tnWFu{
@@ -792,9 +795,6 @@ div[class*="noChannel-"],
   margin-left: 80px;
   border-radius: 5px;
 }
-.wrapper-1VLyxH {
-  border-radius: 5px;
-}
 .wrapper-1VLyxH foreignObject,
 .callAvatarMask-fiNMWy foreignObject,
 .avatarContainer-gPrCzX foreignObject {
@@ -817,7 +817,7 @@ div[class*="noChannel-"],
 .avatar-2EVtgZ,
 .avatarContainer-3tBLDx,
 .appAvatar-2_lufo {
-  border-radius: 5px;
+  border-radius: 10px;
 }
 /*zoom out friend thingy*/
 .clickable-28SzVr:hover {
@@ -1293,7 +1293,7 @@ code.hljs {
   border-radius: 3px;
   margin: 1px;
   padding: 2px;
-  background-color: rgba(90, 21, 21, 0.527);
+  background-color: rgba(0, 0, 0, 0.39);
   backdrop-filter: blur(5px);
 }
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty) {
