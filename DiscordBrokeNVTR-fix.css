@@ -251,7 +251,7 @@ background-color: #fff !important;
 /*online friends hover button to match blur activity background*/
 .actionButton-3-B2x- {
     background-color: rgba(255, 255, 255, 0.288);
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(5px);
     border-radius: 5px;
 }
 /*unread and mention text*/
@@ -848,7 +848,7 @@ div[class*="noChannel-"],
 /*active now activity blur*/
 .itemCard-3Etziu {
     background-color: rgba(255, 255, 255, 0.288);
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(5px);
     border-radius: 5px;
     border: none;
 }
@@ -1284,7 +1284,7 @@ code.hljs {
 }
 .grid-1aWVsE {
   background-color: rgba(90, 21, 21, 0.527);
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(5px);
   border-radius: 3px;
 }
 .wrapper-2vIMkT,
@@ -1294,7 +1294,7 @@ code.hljs {
   margin: 1px;
   padding: 2px;
   background-color: rgba(90, 21, 21, 0.527);
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(5px);
 }
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty) {
     position: relative;
@@ -1305,7 +1305,7 @@ code.hljs {
     margin: 0;
     padding: 3px 10px ;
     background-color: rgba(90, 21, 21, 0.527);
-    backdrop-filter: blur(3px);
+    backdrop-filter: blur(5px);
 }
 /*custom user profile icons*/
 :root .root-8LYsGj .tabBarContainer-sCZC4w:not(.flex-2S1XBF) .tabBar-2hXqzU {
@@ -1387,7 +1387,7 @@ code.hljs {
   transition: all 0.20s;
 }
 /*custom user popout colour*/
-.userPopout-2j1gM4 {background-color: rgba(0, 0, 0, 0.719); backdrop-filter: blur(4px); }
+.userPopout-2j1gM4 {background-color: rgba(0, 0, 0, 0.719); backdrop-filter: blur(5px); }
 .footer-3naVBw {background-color: rgba(0, 0, 0, 0)!important;}
 .avatar-2Vndt_ {border: 6px solid transparent;background-color: transparent;}
 .bodyInnerWrapper-2bQs1k {background: transparent;}
