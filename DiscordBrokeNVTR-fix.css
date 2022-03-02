@@ -409,6 +409,9 @@ div[class*="noChannel-"],
 .reactions-1xb2Ex .reactionBtn-2na4rd {
   display: none !important;
 }
+.bd-pub-li {
+  height: 0px;
+}
 /* colored links */
 /* YouTube */
 [href*="youtu.be"],
